@@ -1,0 +1,1025 @@
+o---------------------------------------------------------------------------------------------------o
+|   Title                     |      Author      |     Borrower Name  |  Borrow Date | Return Date  |
+o---------------------------------------------------------------------------------------------------o
+| Taxation   | Neil Sindayen   | sss   | 2024-05-08   | 2024-05-08   |
+o---------------------------------------------------------------------------------------------------o
+Timestamp: 05/08-2024 11:42 PM
+o---------------------------------------------------------------------------------------------------o
+Title: Computer Programming 3, Author: Neil Sindayen, Borrower Name: ss, Borrow Date: 2024-05-08, Return Date: 2024-05-08
+Title: Discrete Structure 2, Author: Neil Sindayen, Borrower Name: ss, Borrow Date: 2024-05-08, Return Date: 2024-05-08
+Title: Discrete Structure 1, Author: Vladlen Koltun, Borrower Name: ss, Borrow Date: 2024-05-08, Return Date: 2024-05-08
+Title: Electrical Circuits 1, Author: Neil Sindayen, Borrower Name: ss, Borrow Date: 2024-05-08, Return Date: 2024-05-08
+Title: Electrical Circuits 2, Author: Neil Sindayen, Borrower Name: ss, Borrow Date: 2024-05-08, Return Date: 2024-05-08
+Title: Environmental Engineering, Author: Neil Sindayen, Borrower Name: ss, Borrow Date: 2024-05-08, Return Date: 2024-05-08
+Title: Economics, Author: Neil Sindayen, Borrower Name: ss, Borrow Date: 2024-05-08, Return Date: 2024-05-08
+Timestamp: 05/08-2024 11:49 PM
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: sss
+Borrow Date: 2024-05-08
+Return Date: 2024-05-08
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: sss
+Borrow Date: 2024-05-08
+Return Date: 2024-05-08
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: sss
+Borrow Date: 2024-05-08
+Return Date: 2024-05-08
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: sss
+Borrow Date: 2024-05-08
+Return Date: 2024-05-08
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: sss
+Borrow Date: 2024-05-08
+Return Date: 2024-05-08
+--------------------------
+Title: Environmental Engineering
+Author: Neil Sindayen
+Borrower Name: sss
+Borrow Date: 2024-05-08
+Return Date: 2024-05-08
+--------------------------
+Timestamp: 05/08-2024 11:55 PM
+Timestamp: 05/09-2024 12:02 AM
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: Neil Sindayen
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Environmental Engineering
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Financial Management
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Investment & Portfolio Management
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 12:08 AM
+Timestamp: 05/09-2024 12:20 AM
+Timestamp: 05/09-2024 12:22 AM
+Timestamp: 05/09-2024 12:36 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: Ne
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 12:48 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 12:49 AM
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Engineering Thermodynamics
+Author: Michael J. Moran
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Environmental Engineering
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 10:06 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Engineering Thermodynamics
+Author: Michael J. Moran
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Environmental Engineering
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Financial Accounting
+Author: Jerry J. Weygandt
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 10:15 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 10:25 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 10:35 AM
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 10:41 AM
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 10:50 AM
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-10
+--------------------------
+Timestamp: 05/09-2024 10:54 AM
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 10:59 AM
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Engineering Thermodynamics
+Author: Michael J. Moran
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Environmental Engineering
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Financial Accounting
+Author: Jerry J. Weygandt
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Financial Management
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Fluid Mechanics
+Author: Frank M. White
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Introduction to Algorithms
+Author: Thomas H. Cormen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Investment & Portfolio Management
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Management Accounting
+Author: Anthony A. Atkinson
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Taxation
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: The Pragmatic Programmer: Your Journey to Mastery
+Author: Andrew Hunt
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: n
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 11:03 AM
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Engineering Thermodynamics
+Author: Michael J. Moran
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 11:06 AM
+Timestamp: 05/09-2024 11:17 AM
+Timestamp: 05/09-2024 11:35 AM
+Timestamp: 05/09-2024 11:47 AM
+Timestamp: 05/09-2024 11:54 AM
+Timestamp: 05/09-2024 11:54 AM
+Timestamp: 05/09-2024 01:19 PM
+Timestamp: 05/09-2024 01:24 PM
+Timestamp: 05/09-2024 01:37 PM
+Timestamp: 05/09-2024 01:58 PM
+Timestamp: 05/09-2024 02:10 PM
+Timestamp: 05/09-2024 02:12 PM
+Timestamp: 05/09-2024 02:21 PM
+Timestamp: 05/09-2024 02:29 PM
+Title: Taxation
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 02:37 PM
+Timestamp: 05/09-2024 03:35 PM
+Timestamp: 05/09-2024 03:37 PM
+Timestamp: 05/09-2024 03:39 PM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 03:50 PM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 03:56 PM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 03:59 PM
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Engineering Thermodynamics
+Author: Michael J. Moran
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Environmental Engineering
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Financial Accounting
+Author: Jerry J. Weygandt
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Financial Management
+Author: Neil Sindayen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Fluid Mechanics
+Author: Frank M. White
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Introduction to Algorithms
+Author: Thomas H. Cormen
+Borrower Name: Neil
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 04:05 PM
+Timestamp: 05/09-2024 08:39 PM
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 08:47 PM
+Timestamp: 05/09-2024 08:59 PM
+Timestamp: 05/09-2024 09:01 PM
+Timestamp: 05/09-2024 09:03 PM
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 09:26 PM
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Engineering Thermodynamics
+Author: Michael J. Moran
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Environmental Engineering
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Financial Accounting
+Author: Jerry J. Weygandt
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Financial Management
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Fluid Mechanics
+Author: Frank M. White
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Introduction to Algorithms
+Author: Thomas H. Cormen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Investment & Portfolio Management
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Management Accounting
+Author: Anthony A. Atkinson
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Mechanics of Materials
+Author: Russell C. Hibbeler
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: Taxation
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Title: The Pragmatic Programmer: Your Journey to Mastery
+Author: Andrew Hunt
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 09:32 PM
+Timestamp: 05/09-2024 09:38 PM
+Timestamp: 05/09-2024 09:40 PM
+Timestamp: 05/09-2024 09:52 PM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: null
+Return Date: null
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: s
+Borrow Date: null
+Return Date: null
+--------------------------
+Timestamp: 05/09-2024 10:01 PM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: null
+Return Date: null
+--------------------------
+Timestamp: 05/09-2024 10:04 PM
+Timestamp: 05/09-2024 10:07 PM
+Timestamp: 05/09-2024 10:15 PM
+Timestamp: 05/09-2024 10:22 PM
+Title: Environmental Engineering
+Author: Neil Sindayen
+Borrower Name: s
+Borrow Date: 2024-05-09
+Return Date: 2024-05-09
+--------------------------
+Timestamp: 05/09-2024 10:28 PM
+Timestamp: 05/09-2024 11:01 PM
+Timestamp: 05/09-2024 11:03 PM
+Timestamp: 05/09-2024 11:10 PM
+Timestamp: 05/09-2024 11:20 PM
+Timestamp: 05/09-2024 11:27 PM
+Timestamp: 05/09-2024 11:31 PM
+Timestamp: 05/09-2024 11:37 PM
+Timestamp: 05/09-2024 11:39 PM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Timestamp: 05/10-2024 12:04 AM
+Timestamp: 05/10-2024 12:05 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Timestamp: 05/10-2024 12:11 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: 2024-05-10
+Return Date: 2024-05-17
+--------------------------
+Timestamp: 05/10-2024 12:15 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Timestamp: 05/10-2024 12:17 AM
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: s
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Timestamp: 05/10-2024 12:20 AM
+Timestamp: 05/10-2024 12:21 AM
+Timestamp: 05/10-2024 12:24 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Timestamp: 05/10-2024 12:25 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Timestamp: 05/10-2024 12:25 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Timestamp: 05/10-2024 12:27 AM
+Timestamp: 05/10-2024 12:29 AM
+Timestamp: 05/10-2024 12:34 AM
+Timestamp: 05/10-2024 12:51 AM
+Timestamp: 05/10-2024 01:24 AM
+Timestamp: 05/10-2024 01:32 AM
+Timestamp: 05/10-2024 01:33 AM
+Timestamp: 05/10-2024 01:51 AM
+Timestamp: 05/10-2024 02:04 AM
+Timestamp: 05/10-2024 02:07 AM
+Timestamp: 05/10-2024 02:07 AM
+Timestamp: 05/10-2024 02:10 AM
+Timestamp: 05/10-2024 02:28 AM
+Timestamp: 05/10-2024 02:29 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Engineering Thermodynamics
+Author: Michael J. Moran
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Environmental Engineering
+Author: Neil Sindayen
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Financial Accounting
+Author: Jerry J. Weygandt
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Financial Management
+Author: Neil Sindayen
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Fluid Mechanics
+Author: Frank M. White
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Introduction to Algorithms
+Author: Thomas H. Cormen
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Investment & Portfolio Management
+Author: Neil Sindayen
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Management Accounting
+Author: Anthony A. Atkinson
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Title: Mechanics of Materials
+Author: Russell C. Hibbeler
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Timestamp: 05/10-2024 02:56 AM
+Timestamp: 05/10-2024 02:58 AM
+Timestamp: 05/10-2024 03:00 AM
+Timestamp: 05/10-2024 03:10 AM
+Timestamp: 05/10-2024 03:20 AM
+Timestamp: 05/10-2024 03:28 AM
+Timestamp: 05/10-2024 03:29 AM
+Timestamp: 05/10-2024 03:30 AM
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: 1
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Timestamp: 05/10-2024 08:59 AM
+Timestamp: 05/10-2024 09:06 AM
+Timestamp: 05/10-2024 09:27 AM
+Timestamp: 05/10-2024 09:35 AM
+Timestamp: 05/10-2024 09:36 AM
+Timestamp: 05/10-2024 09:38 AM
+Timestamp: 05/10-2024 09:41 AM
+Timestamp: 05/10-2024 09:43 AM
+Timestamp: 05/10-2024 09:50 AM
+Timestamp: 05/10-2024 09:56 AM
+Timestamp: 05/10-2024 10:14 AM
+Timestamp: 05/10-2024 10:34 AM
+Timestamp: 05/10-2024 11:30 AM
+Timestamp: 05/10-2024 11:31 AM
+Timestamp: 05/10-2024 11:39 AM
+Timestamp: 05/10-2024 12:01 PM
+Timestamp: 05/10-2024 12:30 PM
+Timestamp: 05/10-2024 12:40 PM
+Timestamp: 05/10-2024 12:50 PM
+Timestamp: 05/10-2024 12:56 PM
+Timestamp: 05/10-2024 12:59 PM
+Timestamp: 05/10-2024 01:09 PM
+Timestamp: 05/10-2024 01:12 PM
+Timestamp: 05/10-2024 01:15 PM
+Timestamp: 05/10-2024 01:51 PM
+Timestamp: 05/10-2024 01:58 PM
+Timestamp: 05/10-2024 02:11 PM
+Timestamp: 05/10-2024 02:13 PM
+Timestamp: 05/10-2024 02:52 PM
+Timestamp: 05/10-2024 03:01 PM
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: n
+Borrow Date: 2024-05-10
+Return Date: 2024-05-10
+--------------------------
+Timestamp: 05/10-2024 03:20 PM
+Timestamp: 05/10-2024 03:22 PM
+Timestamp: 05/10-2024 03:25 PM
+Timestamp: 05/10-2024 03:42 PM
+Timestamp: 05/10-2024 03:44 PM
+Timestamp: 05/10-2024 03:46 PM
+Timestamp: 05/10-2024 03:50 PM
+Timestamp: 05/10-2024 04:05 PM
+Timestamp: 05/10-2024 04:18 PM
+Timestamp: 05/10-2024 04:23 PM
+Timestamp: 05/10-2024 04:25 PM
+Timestamp: 05/10-2024 04:28 PM
+Timestamp: 05/10-2024 05:02 PM
+Timestamp: 05/10-2024 05:08 PM
+Timestamp: 05/10-2024 05:15 PM

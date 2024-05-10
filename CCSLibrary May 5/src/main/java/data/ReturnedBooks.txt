@@ -1,0 +1,215 @@
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Fluid Mechanics
+Author: Frank M. White
+Borrower Name: Rayster
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: S
+Return Date: 2024-05-09
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: S
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: S
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: Neil
+Return Date: 2024-05-09
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: neil
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: neil
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: neil
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: neil
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Clean Code: A Handbook of Agile Software Craftsmanship
+Author: Robert C. Martin
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------
+Title: Auditing and Assurance Services
+Author: Alvin A. Arens
+Borrower Name: s
+Return Date: 2024-05-09
+--------------------------

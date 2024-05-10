@@ -1,0 +1,78 @@
+Title: Computer Programming 3
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 12/12/24
+Return Date: 12/13/24
+------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 12/12/24
+Return Date: 12/13/24
+------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: Neil Sindayen
+Borrow Date: 12/12/24
+Return Date: 12/13/24
+------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 12/12/24
+Return Date: 12/13/24
+------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 12/12/24
+Return Date: 12/13/24
+------------------------
+Title: Environmental Engineering
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 12/12/24
+Return Date: 12/13/24
+------------------------
+Title: Economics
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 12/12/24
+Return Date: 12/13/24
+------------------------
+Title: Financial Management
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen
+Borrow Date: 12/12/24
+Return Date: 12/13/24
+------------------------
+Title: Discrete Structure 2
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen Pare
+Borrow Date: 12/12/24
+Return Date: 12/12/24
+------------------------
+Title: Discrete Structure 1
+Author: Vladlen Koltun
+Borrower Name: Neil Sindayen Pare
+Borrow Date: 12/12/24
+Return Date: 12/12/24
+------------------------
+Title: Electrical Circuits 1
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen Pare
+Borrow Date: 12/12/24
+Return Date: 12/12/24
+------------------------
+Title: Electrical Circuits 2
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen Pare
+Borrow Date: 12/12/24
+Return Date: 12/12/24
+------------------------
+Title: Environmental Engineering
+Author: Neil Sindayen
+Borrower Name: Neil Sindayen Pare
+Borrow Date: 12/12/24
+Return Date: 12/12/24
+------------------------
